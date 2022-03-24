@@ -262,7 +262,7 @@ L19
 Debugging
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.9 MB]({{< baseurl >}}/resources/l19_spchanim_bbg))
+([PDF - 3.9 MB]({{< baseurl >}}/resources/l19_spchanim_bbg))
 {{< tdclose >}}
 
 {{< trclose >}}
